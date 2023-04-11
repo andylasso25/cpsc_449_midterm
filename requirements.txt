@@ -1,0 +1,11 @@
+#Necessary Packages
+Flask
+SQLAlchemy
+Migrate
+JWTManager
+Dropzone
+CORS
+os
+werkzeug.security 
+werkzeug.utils 
+flask_jwt_extended 
